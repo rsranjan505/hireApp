@@ -39,8 +39,8 @@ It provides a smooth user experience using **Inertia.js**, **Vite**, and **Tailw
 ## ⚙️ Installation
 
 ### 1️⃣ Clone the repository
-```bash
-git clone https://github.com/your-username/hire.git
+
+git clone https://github.com/rsranjan505/hireApp.git
 cd hire
 
 
